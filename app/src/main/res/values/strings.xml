@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <string name="settings">Configuración</string>
+    <string name="first_option">Opción 1</string>
+    <string name="second_option">Opción 2</string>
+    <string name="more_settings">Más Configuraciones</string>
+    <string name="button">Botón</string>
+    <string name="hint">Presiona para escribir</string>
+    <string name="check_this">Aplica esta configuración</string>
+    <string-array
+        name="string_arrays">
+        <item>Texto 1</item>
+        <item>Texto 2</item>
+    </string-array>
+
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="numero_telefonico">Número Telefónico</string>
+    <string name="add_info">Añada y visualize su información</string>
+    <string name="building_number">No. de establecimiento comercial</string>
+    <string name="user_name">Nombre de Usuario</string>
+    <string name="remember_stuff">Recordar establecimiento y nombre de usuario</string>
+    <string name="enter">Entrar</string>
+    <string name="forgot_pw">Olvidé contraseña</string>
+    <string name="forgot_user_name">Olvidé Nombre de Usuario</string>
+    <string name="password">Contraseña</string>
+
+</resources>
